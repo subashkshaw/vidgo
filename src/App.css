@@ -20,3 +20,15 @@ form button{
 .offcanvas-backdrop {
     background-color: gray !important;
 }
+.modal-header {
+    border-bottom: none !important;
+}
+.modal-footer {
+    border-top: none !important;
+}
+.modal-backdrop {
+    background-color: gray !important;
+}
+.modal-backdrop.show {
+    opacity: 0.9 !important;
+}
