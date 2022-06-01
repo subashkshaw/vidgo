@@ -1,0 +1,22 @@
+a{
+    text-decoration: none !important;
+    color: darkgray !important;
+}
+.App{
+    background: #000;
+}
+.offcanvas-start {
+    width: 300px !important;
+}
+.list-group-item {
+    border: none !important;
+}
+.form-control {
+    border-radius: 0px !important;
+}
+form button{
+    border-radius: 0px !important;
+}
+.offcanvas-backdrop {
+    background-color: gray !important;
+}
